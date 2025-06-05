@@ -10,6 +10,6 @@ tqdm>=4.64.1
 google-auth>=2.16.0
 
 # extras:mime-auto
-python-magic>=0.4.27
+#python-magic>=0.4.27
 # extras:mime-pil
 pillow>=10.0.0
